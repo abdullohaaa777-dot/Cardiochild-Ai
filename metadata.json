@@ -1,0 +1,8 @@
+{
+  "name": "CardioChild AI Diet",
+  "description": "Nogironligi va yurak-qon tomir kasalligi bo'lgan bolalar uchun AI yordamida shaxsiy parhez nazorati",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
